@@ -98,7 +98,8 @@ matplotlib颜色的指定有多种途径，具体如下：
 
 后两种方式基本用不到，在此就不做说明了，若想要了解具体的信息，可以到(https://matplotlib.org/tutorials/colors/colors.html#sphx-glr-tutorials-colors-colors-py)仔细查看。
 ### 形状
-确定好每个点的颜色后，下一步要做的就是确定每个点的表示形状。默认情况下， **marker** 变量为'o'，也就是'circle'。matplotlib库支持的形状较多，以下是详细的说明：  
+确定好每个点的颜色后，下一步要做的就是确定每个点的表示形状。默认情况下， **marker** 变量为'o'，也就是'circle'。matplotlib库支持的形状较多，以下是详细的说明：
+ 
 缩写|含义
 :-:|:-:
 '.'|'point'
